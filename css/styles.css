@@ -93,6 +93,7 @@ img{
     padding: 4rem 0 2rem 0;
 }
 
+
 .section-title{
     position: relative;
     font-size: var(--big-font-size);
@@ -627,9 +628,9 @@ background-color: var(--dark-color);
     .collection__img{
         width: 260px;
     }
-    .sneaker__img{
+   /*  .sneaker__img{
         width: 260px;
-    }
+    } */
     .offer__container{
        grid-template-columns: max-content max-content; 
     }
